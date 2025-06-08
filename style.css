@@ -674,6 +674,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
   .why-card {
     flex-direction: column !important;
     text-align: center !important;
+    padding: 10px;
   }
 
   .why-text {
