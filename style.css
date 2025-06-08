@@ -655,7 +655,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
     top: 0px;
   }
   img.logo {
-    height: 50px;
+    height: 40px;
     width: auto;
     margin-top: 10px;
   }
