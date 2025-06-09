@@ -658,6 +658,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
     height: 40px;
     width: auto;
     margin-top: 10px;
+    margin-top: 20px;
   }
 
   main {
