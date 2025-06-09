@@ -630,6 +630,11 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
   .hero-text-section {
     font-size: 24px;
     }
+    .nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 }
 
 @media (max-width: 768px) {
