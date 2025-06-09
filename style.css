@@ -626,6 +626,9 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
     margin-bottom: 20px;
     /* Adjust spacing */
   }
+  .hero-text-section {
+    font-size: 24px;
+    }
 }
 
 @media (max-width: 768px) {
