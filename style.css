@@ -220,7 +220,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
 
 .logo-container {
   position: absolute;
-  top: 50px;
+  top: 75px;
   display: flex;
   justify-content: left;
   z-index: 2;
@@ -669,7 +669,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
   }
   .logo-container {
     position: fixed;
-    top: 10px;
+    top: 75px;
     left: 10px;
     z-index: 1000;
   }
