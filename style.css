@@ -621,6 +621,13 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
   object-fit: cover;
 }
 
+@media screen and (min-width: 1024px) {
+  .logo {
+    margin-bottom: 20px;
+    /* Adjust spacing */
+  }
+}
+
 @media (max-width: 768px) {
   .material-symbols-outlined {
     font-size: 27px;
