@@ -669,7 +669,7 @@ input#overlay-menu-check:checked ~ .overlay-menu-btn > label > .close {
   }
   .logo-container {
     position: fixed;
-    top: 75px;
+    top: 10px;
     left: 10px;
     z-index: 1000;
   }
